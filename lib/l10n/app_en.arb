@@ -1,0 +1,280 @@
+{
+  "@@locale": "en",
+  "appTitle": "Personalized Welcome",
+  "goodMorning": "Good Morning",
+  "goodAfternoon": "Good Afternoon",
+  "goodEvening": "Good Evening",
+  "welcomeWithName": "Welcome{name}",
+  "@welcomeWithName": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "howAreYouFeeling": "How are you feeling today?",
+  "moodInspired": "Inspired",
+  "moodEnergized": "Energized",
+  "moodCalm": "Calm",
+  "moodFocused": "Focused",
+  "moodCreative": "Creative",
+  "quickStart": "Quick Start",
+  "tileSetGoals": "Set Goals",
+  "tileSetGoalsSub": "Track your progress",
+  "tileExplore": "Explore",
+  "tileExploreSub": "Curated for you",
+  "tileAlerts": "Alerts",
+  "tileAlertsSub": "Stay updated",
+  "tileSettings": "Settings",
+  "tileSettingsSub": "Customize experience",
+  "beginYourJourney": "Begin Your Journey",
+  "letsGetStarted": "Let's Get Started",
+  "alreadyHaveAccountSignIn": "Already have an account? Sign in",
+  "personalizeYourExperience": "Personalize your experience",
+  "tapToTellName": "Tap to tell us your name",
+  "whatShouldWeCallYou": "What should we call you?",
+  "enterYourNameHint": "Enter your name…",
+  "helloUser": "Hello, {userName}! 👋",
+  "@helloUser": {
+    "placeholders": {
+      "userName": {"type": "String"}
+    }
+  },
+  "wevePersonalized": "We've personalized your experience",
+  "setBadge": "Set",
+  "exploreTitle": "Explore",
+  "exploreSubtitle": "Curated reads, just for you",
+  "search": "Search",
+  "featured": "Featured",
+  "latest": "Latest",
+  "articlesCount": "{count} articles",
+  "@articlesCount": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "readMinutes": "{n} min",
+  "@readMinutes": {
+    "placeholders": {
+      "n": {"type": "int"}
+    }
+  },
+  "readSuffix": " read",
+  "byAuthor": "by {author}",
+  "@byAuthor": {
+    "placeholders": {
+      "author": {"type": "String"}
+    }
+  },
+  "categoryAll": "All",
+  "categoryTech": "Tech",
+  "categoryDesign": "Design",
+  "categoryWellness": "Wellness",
+  "categoryFinance": "Finance",
+  "categoryScience": "Science",
+  "articleHciTitle": "The Future of Human-Computer Interaction",
+  "articleDesignSysTitle": "Design Systems That Scale With Your Team",
+  "articleMorningTitle": "Morning Rituals of High Performers",
+  "articleIndexTitle": "Index Funds vs Active Portfolio Management",
+  "articleNeuralTitle": "Neural Plasticity and Learning New Skills",
+  "articleMicroTitle": "Micro-interactions: Small Details, Big Impact",
+  "articleHabitsTitle": "Building Habits That Actually Stick",
+  "articleGptTitle": "GPT-5 and the Reasoning Revolution",
+  "alertsTitle": "Alerts",
+  "unreadCountBadge": "{count} unread",
+  "@unreadCountBadge": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "readAll": "Read all",
+  "statTotal": "Total",
+  "statUrgent": "Urgent",
+  "statUnread": "Unread",
+  "statSuccess": "Success",
+  "filterAll": "All",
+  "filterUrgent": "Urgent",
+  "filterUnread": "Unread",
+  "filterInfo": "Info",
+  "allClear": "All clear!",
+  "noAlertsForFilter": "No {filter} alerts",
+  "@noAlertsForFilter": {
+    "placeholders": {
+      "filter": {"type": "String"}
+    }
+  },
+  "dismiss": "Dismiss",
+  "alertTypeUrgent": "Urgent",
+  "alertTypeInfo": "Info",
+  "alertTypeSuccess": "Success",
+  "alertTypeWarning": "Warning",
+  "alertGoalTitle": "Goal deadline approaching",
+  "alertGoalBody": "Your monthly run goal is due in 3 days. You're at 62%.",
+  "alertNewArticleTitle": "New article available",
+  "alertNewArticleBody": "Neural Plasticity and Learning has been added to your list.",
+  "alertSavingsTitle": "Savings milestone reached!",
+  "alertSavingsBody": "You've hit 75% of your $5,000 savings goal. Great work!",
+  "alertWeeklyTitle": "Weekly check-in reminder",
+  "alertWeeklyBody": "Don't forget to update your goal progress for this week.",
+  "alertTechTitle": "3 new articles in Tech",
+  "alertTechBody": "Topics matching your interests have been curated for you.",
+  "alertStreakTitle": "Streak maintained! 🔥",
+  "alertStreakBody": "You've logged in 7 days in a row. Keep it up!",
+  "alertSyncTitle": "Settings sync failed",
+  "alertSyncBody": "Your preferences couldn't be synced. Tap to retry.",
+  "time2m": "2m ago",
+  "time18m": "18m ago",
+  "time1h": "1h ago",
+  "time3h": "3h ago",
+  "time5h": "5h ago",
+  "timeYesterday": "Yesterday",
+  "settingsTitle": "Settings",
+  "settingsFitness": "Fitness",
+  "settingsStepGoals": "Step & distance goals",
+  "settingsExploreArticles": "Explore articles",
+  "settingsNotifications": "Notifications",
+  "settingsPush": "Push Notifications",
+  "settingsPushSub": "Alerts and updates",
+  "settingsEmailDigest": "Email Digest",
+  "settingsEmailDigestSub": "Weekly summary",
+  "settingsGoalReminders": "Goal Reminders",
+  "settingsGoalRemindersSub": "Daily nudges",
+  "settingsWeeklyReport": "Weekly Report",
+  "settingsWeeklyReportSub": "Progress overview",
+  "settingsAppearance": "Appearance",
+  "settingsDarkMode": "Dark Mode",
+  "settingsDarkModeSub": "Easier on the eyes",
+  "settingsTheme": "Theme",
+  "settingsLanguage": "Language",
+  "settingsPrivacy": "Privacy & Data",
+  "settingsHaptics": "Haptic Feedback",
+  "settingsHapticsSub": "Touch vibrations",
+  "settingsAnalytics": "Analytics",
+  "settingsAnalyticsSub": "Help us improve",
+  "settingsCloudSync": "Cloud Sync",
+  "settingsCloudSyncSub": "Sync across devices",
+  "settingsAccount": "Account",
+  "settingsChangePassword": "Change Password",
+  "settingsSignOut": "Sign Out",
+  "settingsDeleteAccount": "Delete Account",
+  "settingsProfileTap": "Tap to edit display name",
+  "settingsVersion": "Version 1.0.0 • Made with ❤️",
+  "selectOption": "Select {label}",
+  "@selectOption": {
+    "placeholders": {
+      "label": {"type": "String"}
+    }
+  },
+  "cancel": "Cancel",
+  "save": "Save",
+  "update": "Update",
+  "editProfile": "Edit profile",
+  "displayName": "Display name",
+  "changePassword": "Change password",
+  "newPassword": "New password",
+  "confirmPassword": "Confirm password",
+  "signOutTitle": "Sign out?",
+  "signOutBody": "You will need to sign in again to access your personalized content.",
+  "signOutAction": "Sign out",
+  "deleteAccountTitle": "Delete account?",
+  "deleteAccountBody": "This cannot be undone. All your data will be permanently removed.",
+  "deleteAction": "Delete",
+  "toastProfileUpdated": "Profile updated",
+  "toastPasswordShort": "Password must be at least 8 characters",
+  "toastPasswordMismatch": "Passwords do not match",
+  "toastPasswordUpdated": "Password updated",
+  "toastAccountDeletion": "Account deletion requested",
+  "toastDarkOn": "Dark mode on",
+  "toastDarkOff": "Dark mode off",
+  "toastThemeApplied": "Theme: {name}",
+  "@toastThemeApplied": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "toastLanguageApplied": "Language: {name}",
+  "@toastLanguageApplied": {
+    "placeholders": {
+      "name": {"type": "String"}
+    }
+  },
+  "goalsTitle": "My Goals",
+  "goalsWeeklySteps": "Weekly Steps",
+  "goalsSteps": "{count} steps",
+  "@goalsSteps": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "goalsDistanceKm": "Distance: {km} km",
+  "@goalsDistanceKm": {
+    "placeholders": {
+      "km": {"type": "String"}
+    }
+  },
+  "goalsStepsLabel": "Steps: {count}",
+  "@goalsStepsLabel": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "goalsDeadline": "Deadline: {date}",
+  "@goalsDeadline": {
+    "placeholders": {
+      "date": {"type": "String"}
+    }
+  },
+  "goalsRunMonth": "Run {km} km this month",
+  "@goalsRunMonth": {
+    "placeholders": {
+      "km": {"type": "String"}
+    }
+  },
+  "goalsCategoryFitness": "Fitness",
+  "goalsCategorySavings": "Savings",
+  "goalsCategoryReading": "Reading",
+  "goalsSavingsMonth": "Save {amount} this month",
+  "@goalsSavingsMonth": {
+    "placeholders": {
+      "amount": {"type": "String"}
+    }
+  },
+  "goalsReadingMonth": "Read {count} books this month",
+  "@goalsReadingMonth": {
+    "placeholders": {
+      "count": {"type": "int"}
+    }
+  },
+  "goalsSavedProgress": "{current} / {target} saved",
+  "@goalsSavedProgress": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "target": {"type": "int"}
+    }
+  },
+  "goalsBooksProgress": "{read} of {total} books",
+  "@goalsBooksProgress": {
+    "placeholders": {
+      "read": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "weekdayMon": "Mon",
+  "weekdayTue": "Tue",
+  "weekdayWed": "Wed",
+  "weekdayThu": "Thu",
+  "weekdayFri": "Fri",
+  "weekdaySat": "Sat",
+  "weekdaySun": "Sun",
+  "monthJan": "Jan", "monthFeb": "Feb", "monthMar": "Mar", "monthApr": "Apr",
+  "monthMay": "May", "monthJun": "Jun", "monthJul": "Jul", "monthAug": "Aug",
+  "monthSep": "Sep", "monthOct": "Oct", "monthNov": "Nov", "monthDec": "Dec",
+  "themeSystem": "System",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeAmoled": "AMOLED",
+  "langEnglish": "English",
+  "langSpanish": "Spanish",
+  "langFrench": "French",
+  "langHindi": "Hindi",
+  "langJapanese": "Japanese",
+  "settingsProfileDefault": "Your Profile"
+}
